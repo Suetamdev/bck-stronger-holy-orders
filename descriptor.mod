@@ -4,5 +4,5 @@ tags={
 	"Warfare"
 }
 name="BCK - Stronger Holy Orders"
-supported_version="1.17.*"
+supported_version="1.18.*"
 remote_file_id="3175019750"
